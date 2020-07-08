@@ -61,6 +61,11 @@ p {
   text-align: right;
 }
 
+.currency #amount-2 {
+  cursor: default;
+  color: rgba(0, 0, 0, 0.6);
+}
+
 .swap-rate-container {
   display: flex;
   align-items: center;
